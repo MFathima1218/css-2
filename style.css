@@ -1,0 +1,26 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+.cm{
+    margin-left: 140px;
+}
+.wcs{
+margin-top: 90px;
+}
+.wcs p{
+    font-size: 60px;
+    font-style: oblique;
+    color: pink;
+}
+.wcs h1{
+    font-size: 70px;
+}
+.hf p{
+    color: pink;
+}
+.email{
+    padding: 40px;
+    block-size: 50px;
+    
+}
